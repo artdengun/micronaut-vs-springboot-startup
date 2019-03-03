@@ -14,4 +14,4 @@ Check different branches for others versions comparisons.
 (JDK 11.02-Open - Linux VM)
  - Micronaut - Startup completed in 1531ms
  - Spring Boot - Started Application in 2.327 seconds
-
+ - Spring Boot - Started Application in 2.174 seconds (using `-Dspring.main.lazy-initialization=true -noverify` params)
